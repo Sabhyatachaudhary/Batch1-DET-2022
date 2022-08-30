@@ -6,7 +6,7 @@
     <RootNamespace>Batch1_DET_2022</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ConsoleAppDemo1.Class3</StartupObject>
+    <StartupObject>Batch1_DET_2022.genericDelegate</StartupObject>
   </PropertyGroup>
 
 </Project>
